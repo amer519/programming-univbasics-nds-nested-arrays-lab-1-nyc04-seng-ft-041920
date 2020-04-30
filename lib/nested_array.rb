@@ -18,6 +18,10 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
   
+  stored_fruit = [
+    ]
+  
+  
 end
 
 def sorted_matrix
