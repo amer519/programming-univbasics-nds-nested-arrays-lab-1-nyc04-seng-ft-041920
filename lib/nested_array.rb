@@ -38,7 +38,20 @@ end
 
 def sorted_matrix
   
+  stored_fruit = [
+   ["Grapefruit",
+  "Pineapple",
+  "Oranges",
+  "Watermelon",
+  "Eggplant"], 
   
+  
+  ["Strawberries",
+  "Potatoes",
+  "Grapes",
+  "Avocadoes",
+  "Asparagus"]
+]
   
   
   
