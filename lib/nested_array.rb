@@ -20,6 +20,8 @@ def assembled_matrix
   
   stored_fruit = [
     
+  
+  
   ["Strawberries",
   "Potatoes",
   "Grapes",
