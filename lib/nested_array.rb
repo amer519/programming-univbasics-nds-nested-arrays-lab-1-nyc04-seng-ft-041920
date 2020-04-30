@@ -56,7 +56,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  stored_fruit[0][2]
+  matrix[0][2]
 end
 
 def matrix_update(matrix, row, column, new_value)
