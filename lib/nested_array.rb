@@ -24,7 +24,8 @@ def assembled_matrix
   "Potatoes",
   "Grapes",
   "Avocadoes",
-  "Asparagus"]
+  "Asparagus"],
+  
 ]
   
   
